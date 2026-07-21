@@ -1,0 +1,11 @@
+codigo_proyecto,nombre_proyecto,direccion,responsable,estado,fecha_inicio,fecha_fin_estimada,fecha_fin_real,porcentaje_avance,presupuesto,ultima_actualizacion
+PRY-001,Proyecto A,Dirección Norte,Responsable A,Activo,2026-01-05,2026-08-30,,65,150000,2026-07-21
+PRY-002,Proyecto B,Dirección Sur,Responsable B,Finalizado,2026-02-10,2026-05-20,2026-05-18,100,85000,2026-07-21
+PRY-003,Proyecto C,Dirección Este,Responsable C,Nuevo,2026-07-01,2026-10-15,,10,120000,2026-07-21
+PRY-004,Proyecto D,Dirección Oeste,Responsable D,Activo,2026-04-12,2026-09-30,,45,98000,2026-07-21
+PRY-005,Proyecto E,Dirección Central,Responsable E,Activo,2026-03-01,2026-07-15,,70,200000,2026-07-21
+PRY-006,Proyecto F,Dirección Norte,Responsable B,Finalizado,2026-01-20,2026-04-25,2026-04-30,100,76000,2026-07-21
+PRY-007,Proyecto G,Dirección Sur,Responsable C,Activo,2026-06-05,2026-11-20,,30,135000,2026-07-21
+PRY-008,Proyecto H,Dirección Este,Responsable D,Atrasado,2026-02-01,2026-06-30,,55,160000,2026-07-21
+PRY-009,Proyecto I,Dirección Central,Responsable A,Atrasado,2026-01-15,2026-06-15,,40,110000,2026-07-21
+PRY-010,Proyecto J,Dirección Oeste,Responsable E,Nuevo,2026-07-10,2026-12-20,,5,95000,2026-07-21
